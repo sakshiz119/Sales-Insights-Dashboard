@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"product_code","STRING","7","0","0"
+"customer_code","STRING","6","0","0"
+"market_code","STRING","7","0","0"
+"order_date","STRING","10","0","0"
+"sales_qty","INTEGER","5","5","0"
+"sales_amount","DECIMAL","9","7","1"
+"currency","STRING","4","0","0"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"customer_code","STRING","6","0","0"
+"custmer_name","STRING","24","0","0"
+"customer_type","STRING","14","0","0"

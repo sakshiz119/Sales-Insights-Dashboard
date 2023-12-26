@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"markets_code","STRING","7","0","0"
+"markets_name","STRING","12","0","0"
+"zone","STRING","7","0","0"

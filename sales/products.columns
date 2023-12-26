@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"product_code","STRING","7","0","0"
+"product_type","STRING","13","0","0"

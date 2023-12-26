@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"date","STRING","10","0","0"
+"cy_date","STRING","10","0","0"
+"year","INTEGER","4","4","0"
+"month_name","STRING","9","0","0"
+"date_yy_mmm","STRING","7","0","0"
